@@ -22,5 +22,12 @@ document.getElementById("myImage").src=pic;
 <button type="button" onclick="light(1)">lighton</button> 
 <button type="button" onclick="light(0)">lightofff</button> 
 </p> 
+
 </body> 
+
 </html>
+
+
+
+
+
